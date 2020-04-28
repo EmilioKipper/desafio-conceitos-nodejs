@@ -11,3 +11,6 @@ Essa é uma aplicação para armazenar repositórios do seu portfólio, que perm
 - supertest
 - cors
 - nodemon
+
+## Iniciar a aplicação:
+<code>yarn dev src/app.js</code>
